@@ -1,14 +1,12 @@
 # Windows_start_menu_redesign_concept
 A refined Start Menu concept focused on clarity, structure, and Fluent Design consistency.
 
-📘 Windows Start Menu Redesign Concept
+Windows Start Menu Redesign Concept
 
 A refined Start Menu redesign concept focused on clarity, structure, and Fluent Design consistency.  
 This project explores how the Windows Start Menu can evolve while preserving familiarity and improving usability.
 
----
-
-✨ Overview
+Overview
 
 This concept rethinks the Start Menu layout with a focus on:
 
@@ -21,9 +19,7 @@ This concept rethinks the Start Menu layout with a focus on:
 
 The goal is to modernize the Start Menu without breaking the mental model users already rely on.
 
----
-
-🎯 Design Goals
+Design Goals
 
 - Improve structure — reduce visual noise and create a more logical layout.  
 - Enhance usability — make navigation more predictable and consistent.  
@@ -31,17 +27,11 @@ The goal is to modernize the Start Menu without breaking the mental model users 
 - Preserve familiarity — evolve the Start Menu, not reinvent it.  
 - Strengthen ergonomics — align elements for better scanning and muscle memory.
 
----
-
-🖼️ Concept Preview
-
+Concept Preview
 
 !Main Concept
 
-
----
-
-🔍 Key Improvements
+Key Improvements
 
 - Unified bottom bar  
   Search, user profile, and power options are grouped into a single consistent area.
@@ -58,9 +48,7 @@ The goal is to modernize the Start Menu without breaking the mental model users 
 - Better left‑to‑right flow  
   Content aligns more naturally with typical reading patterns.
 
----
-
-🧩 Why This Design Works
+Why This Design Works
 
 - Reduces cognitive load  
 - Improves predictability  
@@ -68,20 +56,15 @@ The goal is to modernize the Start Menu without breaking the mental model users 
 - Makes the Start Menu feel more intentional and less fragmented  
 - Aligns with modern Windows UI direction without breaking user habits  
 
----
-
-📂 Repository Structure
-
+Repository Structure
 
 /images
     concept.png
+    Concept1.png
 README.md
 LICENSE
 
-
----
-
-📜 License
+License
 
 This project is released under the MIT License.  
 You are free to use, modify, and share the concept with attribution.
